@@ -2,4 +2,4 @@
 * text=auto
 
 
-project.language       "SQL"
+project.language       =>"SQL"
