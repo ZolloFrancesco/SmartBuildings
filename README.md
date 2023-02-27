@@ -1,2 +1,2 @@
-# SmartBuildings
+# Smart Buildings
  
